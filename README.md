@@ -1,10 +1,3 @@
-# CodeRabbit Pro
-
-This is an old version of [CodeRabbit](http://coderabbit.ai) and is now in the maintenance mode.
-We recommend installing the Pro version from [CodeRabbit](http://coderabbit.ai). The Pro version is a total redesign and offers significantly better reviews that learn from your usage and improve over time. CodeRabbit Pro is free for open source projects. 
-
-[![Discord](https://img.shields.io/badge/Join%20us%20on-Discord-blue?logo=discord&style=flat-square)](https://discord.gg/GsXnASn26c)
-
 # AI-based PR reviewer and summarizer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -12,7 +5,7 @@ We recommend installing the Pro version from [CodeRabbit](http://coderabbit.ai).
 
 ## Overview
 
-CodeRabbit `ai-pr-reviewer` is an AI-based code reviewer and summarizer for
+`ai-pr-reviewer` is an AI-based code reviewer and summarizer for
 GitHub pull requests using OpenAI's `gpt-3.5-turbo` and `gpt-4` models. It is
 designed to be used as a GitHub Action and can be configured to run on every
 pull request and review comments
