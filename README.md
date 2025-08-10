@@ -1,4 +1,4 @@
-# AI-based PR reviewer and summarizer
+# AI-based PR reviewer and summarizer (CodeRabbitAI)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
